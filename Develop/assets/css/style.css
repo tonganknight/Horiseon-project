@@ -1,3 +1,4 @@
+/*Utility section*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,19 @@
 body {
     background-color: #d9dcd6;
 }
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* End of Utility section*/
+
+/* header content*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,8 +31,10 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    
 }
 
+/* adds color to both elements with adding h1 attributes to .seo class*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -48,8 +63,15 @@ a {
 
 p {
     font-size: 16px;
+    display: inline-block; /* Added*/
+    max-width: 450px ; /* Added*/
+
+    
 }
 
+/* End of Header content*/
+
+/* Hero Section*/
 .hero {
     height: 800px;
     width: 100%;
@@ -57,16 +79,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .content {
@@ -84,6 +96,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff ; /* added*/
 }
 
 .benefit-lead {
@@ -187,6 +200,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*End of Hero Section*/
 
 .footer {
     padding: 30px;
