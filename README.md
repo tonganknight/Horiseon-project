@@ -1,5 +1,3 @@
-# Code Refactor Starter Code
-
 This repository contains the changes I have made to Horizon’s website. 
 The main purposes of these changes is to add accessibility standards to the codebase that was provided, and optimized the site for search engines 
 
