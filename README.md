@@ -25,7 +25,7 @@ Line 68 <img> icon representing Brand awareness Since this is an informative ima
 I have made the following changes to code to remove redundancies to aid with better navigation and functionality of the web page. 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Line 68 I removed </img> <img> tags do not need closing tags
+Line 68 I removed  "im" tags they do not need closing tags.
 
 I changed the title element in header to be more descriptive 
 
