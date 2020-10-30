@@ -34,16 +34,27 @@ I removed the footer content to better reflect the mock image I was given
 CSS changes and reorganization   
 ------------------------------------------------------------------------------------------------------------------------------------
 Changed paragraph size from 16px to 20px to align with mock photo also added max width attribute of 600px
+
 Added benefits paragraph to seperate paragraphs for each section
+
 Added search-engine-optimization span to move optimize on another level
+
 Added online-reputation-management span display block to move the element down
+
 Consolidated img for seo and orm and smm to clear redundances  added width 325px
+
 Consolidated h2 for seo and orm and smm a to clear redundances dded font size chage to 40px
+
 Consolidated img, h2, from the content section to clear redundances 
+
 Combine benefit-lead, benefit-brand, benefit-cost to one declaration
+
 Removed footer content to match mock up
+
 Added a utility section for page wide functions
+
 Moved float left and float right declarations to utility section 0riginal line 75 now line 11-19
+
 Moved link and paragraph codes to utility section
 
 
