@@ -21,8 +21,8 @@ Line 54 <img> icon representing Lead Generation Since this is an informative ima
 Line 61 <img> icon representing Brand awareness Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text.
 “The icon shows a light bulb emanating lighting up. The light bulb sits on top of a shirt and tie signifying the idea of a business man.”
 
-Line 68 <img> icon representing Brand awareness Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text.
-“The icon shows gear cog behind several money signs.”
+Line 68 <img> icon representing Brand awareness Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text.“The icon shows gear cog behind several money signs.”
+
 --------------------------------------------------------------------------------------
 I have made the following changes to code to remove redundancies to aid with better navigation and functionality of the web page. 
 ---------------------------------------------------------------------------------------------------------------------------------
