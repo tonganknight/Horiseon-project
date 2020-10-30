@@ -35,9 +35,9 @@ CSS changes and reorganization
 ------------------------------------------------------------------------------------------------------------------------------------
 Changed paragraph size from 16px to 20px to align with mock photo also added max width attribute of 600px
 
-Added benefits paragraph to seperate paragraphs for each section
+Added benefits paragraph to seperate paragraph styles for each section
 
-Added search-engine-optimization span to move optimize on another level
+Added search-engine-optimization span to move "optimize" below the other element
 
 Added online-reputation-management span display block to move the element down
 
