@@ -3,14 +3,14 @@ The main purposes of these changes is to add accessibility standards to the code
 
 I have made the following changes to add accessibility standards to the provided code 
 ---------------------------------------------------------------------------------------
-Line 7 <title> I changed it from “website” to Horiseon
+Line 7  I changed the title from “website” to Horiseon to be more discriptive
   
-Line 30  <img> image representing Search Engine Optimization. Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text. 
+Line 30   image representing Search Engine Optimization. Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text. 
 “A sketch in a notebook with a small cloud containing the letters SEO. It is surrounded by several smaller sketches representing concepts on the internet that can be found by a Search Engine. “
 
-Line 37 <img> image representing Online Reputation Management. Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text.“A man on a lap top. He is using his phone. On the laptop screen it shows a large heading labeled reputation. Below are several graphs. The largest graph in the center is a bar graph. It shows a gradual increase over time. It is accompanied by an arrow over the top of it signifying an increase.” 
+Line 37  image representing Online Reputation Management. Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text.“A man on a lap top. He is using his phone. On the laptop screen it shows a large heading labeled reputation. Below are several graphs. The largest graph in the center is a bar graph. It shows a gradual increase over time. It is accompanied by an arrow over the top of it signifying an increase.” 
 
-Line 44 <img> image representing Social Media Marketing Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text.
+Line 44  image representing Social Media Marketing Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text.
 “A large group of people at a business table. They are holding laptops, phones, and tablets. On the table there are several paper cut outs scattered around. Each cut out contains a word or a graphic. They representing elements of social media such as tweet, like, Media, share. Some of them contain common media icons such as a phone, camera, music note.”
 
 Line 54 <img> icon representing Lead Generation Since this is an informative image, I added a “Alt” explaining the image. This will add accessibility, and will aid screen readers for the visually impaired. I added the following text.
@@ -33,7 +33,7 @@ I removed the footer content to better reflect the mock image I was given
 
 CSS changes and reorganization   
 ------------------------------------------------------------------------------------------------------------------------------------
-•	Changed <P> size from 16px to 20px to align with mock photo also added max width attribute of 600px
+•	Changed paragraph size from 16px to 20px to align with mock photo also added max width attribute of 600px
 •	Added. benefits p
 •	Added search-engine-optimization span to move optimize on another level
 •	Added online-reputation-management span display block to move the element down
@@ -44,6 +44,6 @@ CSS changes and reorganization
 •	Removed footer content to match mock up
 •	Added a utility section for page wide functions
 •	Moved float left and float right declarations to utility section 0riginal line 75 now line 11-19
-•	Moved link <a> and <p> codes to utility section
+•	Moved link and paragraph codes to utility section
 
 
